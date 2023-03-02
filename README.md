@@ -52,7 +52,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Ruby Enumerables <a name="about-project"></a>
 
-> this is a repo for practicing ruby enumerables.
+> Ruby app that has a 'MyEnumerable' module that is included in 'MyList' class with filter, all and any feature methods.
 
 ## 🛠 Built With <a name="built-with"></a>
 
